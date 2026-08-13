@@ -1,4 +1,4 @@
-Welcome to Speeding Fine Calculator, a C++ program designed to determine whether a vehicle is speeding based on 
+Welcome to SpeedTrap, a C++ program designed to determine whether a vehicle is speeding based on 
 the posted speed limit and the driver's current speed. If the driver is exceeding the speed limit, the program 
 calculates the amount over the limit and issues the appropriate fine. 
 
